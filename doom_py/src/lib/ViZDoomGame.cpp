@@ -33,6 +33,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <fstream>
+#include <iostream>
 
 namespace vizdoom {
 
